@@ -1,0 +1,61 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1F2937;
+    color: white;
+}
+
+.wrapper {
+	max-width: 800px;
+    margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+span {
+    color: #38BDF8;
+}
+
+hr {
+    border-color: #2F3E53;
+}
+
+input {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 5px solid #eeeeee;
+    margin: 5px 3px 20px;
+}
+
+.inputTitle {
+	margin-bottom: 0;
+}
+
+button {
+    background-color: #38BDF8;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 5px 2px;
+    padding: 10px;
+}
+
+.passwords button {
+    min-width: 45%;
+    background-color: #273549;
+    color: #38BDF8;
+}
+
