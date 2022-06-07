@@ -1,5 +1,7 @@
 # Solo Project Password Generator
 
+Preview this project here: https://amoozgar-afghan.github.io/Password-Generator/
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
